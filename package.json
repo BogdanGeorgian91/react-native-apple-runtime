@@ -1,6 +1,6 @@
 {
   "name": "react-native-apple-runtime",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Authoritative Apple runtime detection for React Native and Expo. Tell an iOS app running on macOS (Designed for iPad) apart from a real iPad, and read the UIUserInterfaceIdiom — things Platform and expo-device can't. iOS only. Built with the Expo Modules API.",
   "main": "build/index.js",
   "types": "build/index.d.ts",

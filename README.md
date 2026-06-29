@@ -1,5 +1,7 @@
 # react-native-apple-runtime
 
+> ☕ **If this library has helped you, consider [buying me a coffee](https://buymeacoffee.com/boogdan)!** Your support keeps development going.
+
 Authoritative Apple **runtime** detection for React Native and Expo. Tell an iOS app running on macOS (**Designed for iPad**) apart from a **real iPad**, and read the raw `UIUserInterfaceIdiom` — the things `Platform` and `expo-device` can't reliably answer. iOS only, built with the Expo Modules API.
 
 ```ts
